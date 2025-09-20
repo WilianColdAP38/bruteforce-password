@@ -35,3 +35,8 @@ Time: 4.1668 seconds
 bruteforce.py: Python script with the brute force algorithm.
 
 README.md: Instructions, usage example, and reflections.
+
+## screenshot
+
+![Program running](screen.jpg)
+
