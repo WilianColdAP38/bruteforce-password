@@ -29,6 +29,13 @@ Time: 4.1668 seconds
 ## When I switched to longer ones that mix symbols, numbers, and uppercase letters, the search time grew a lot.  
 ## This showed me that every extra detail in a password makes it much harder to break.  
 
+# Reflection
+
+If a password has 8 or more characters and also includes uppercase letters, numbers, and special symbols, the number of possible combinations becomes enormous.  
+In practice, this means a simple brute force script like the one in this project would take an extremely long time, in some cases years, to find the correct password.  
+That’s why long and complex passwords are considered safe against brute force attacks, and why websites always require this kind of rules when creating accounts.  
+
+
 
 # Files
 
