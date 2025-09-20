@@ -13,7 +13,7 @@ This repository contains a simple Python script that demonstrates how brute forc
 
 
 
-📊 Sample run
+# Sample run
 
 With the test password "Ec2@", the terminal showed the following output:
 
@@ -30,13 +30,13 @@ Time: 4.1668 seconds
 ## This showed me that every extra detail in a password makes it much harder to break.  
 
 
-📂 Files
+# Files
 
 bruteforce.py: Python script with the brute force algorithm.
 
 README.md: Instructions, usage example, and reflections.
 
-## screenshot
+# Screenshot
 
 ![Program running](screen.jpg)
 
