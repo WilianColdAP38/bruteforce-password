@@ -23,11 +23,11 @@ Time: 4.1668 seconds
 
 
 
-## 📝 Observations
+# Observations
 
-# I realized that passwords made of only a few letters are guessed really fast.  
-# When I switched to longer ones that mix symbols, numbers, and uppercase letters, the search time grew a lot.  
-# This showed me that every extra detail in a password makes it much harder to break.  
+## I realized that passwords made of only a few letters are guessed really fast.  
+## When I switched to longer ones that mix symbols, numbers, and uppercase letters, the search time grew a lot.  
+## This showed me that every extra detail in a password makes it much harder to break.  
 
 
 📂 Files
