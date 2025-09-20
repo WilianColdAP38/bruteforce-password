@@ -16,11 +16,11 @@ This repository contains a simple Python script that demonstrates how brute forc
 # Sample run
 
 With the test password "Ec2@", the terminal showed the following output:
-
+```bash
 Password found: Ec2@
 Tries: 11590264
 Time: 4.1668 seconds
-
+```
 
 
 # Observations
